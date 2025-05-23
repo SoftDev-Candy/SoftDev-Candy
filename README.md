@@ -1,4 +1,4 @@
-###Hi, I'm Swastik 👋
+Hi, I'm Swastik 👋
 Welcome to my GitHub! I'm a passionate Software Engineer and Game Developer with a strong interest in creating immersive and interactive experiences. My journey in tech has been driven by a love for problem-solving, creativity, and the pursuit of knowledge.
 
 🌱 About Me

@@ -1,5 +1,4 @@
-👋 Hi, I’m Swastik
-
+YOLO !  
 Welcome to my GitHub! I’m a student developer who enjoys learning how things work — from small C++ projects to full game systems and real-time apps.
 I like solving problems, understanding the “why” behind the code, and building projects that help me grow step by step.
 

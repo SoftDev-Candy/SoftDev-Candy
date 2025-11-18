@@ -53,7 +53,7 @@ I love collaborating on open-source, backend, and game projects.
 📩 [LinkedIn](https://www.linkedin.com/in/swastik-t-8aa131168/)
 
 
-[![Candy's User Stats](https://github-readme-stats.vercel.app/api?username=SoftDev-Candy)](https://github.com/anuraghazra/github-readme-stats)
+[![Candy's User Stats](https://github-readme-stats.vercel.app/api?username=SoftDev-Candy&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

@@ -4,9 +4,9 @@ I like solving problems, understanding the “why” behind the code, and buildi
 
 🌱 About Me
 
-I’m currently focusing on C++, Unreal Engine, and backend systems.
+I’m currently focusing on C++, Unreal Engine, and backend systems praticularly in game engine and network technologies.
 
-I enjoy learning through projects — each one teaches me something new about design, debugging, or structure.
+I enjoy learning through projects each one teaches me something new about design, debugging, or structure.
 
 I’m also getting better at using Git, CMake, and organizing code the right way.
 
@@ -55,17 +55,11 @@ I love collaborating on open-source, backend, and game projects.
 
 [![Candy's User Stats](https://github-readme-stats.vercel.app/api?username=SoftDev-Candy)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**SoftDev-Candy/SoftDev-Candy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Swastik122?theme=chartreuse&font=PT%20Serif&ext=heatmap)
+
+

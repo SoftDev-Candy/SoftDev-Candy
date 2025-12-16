@@ -10,8 +10,9 @@ I’m also getting better at using Git, CMake, and organizing code the right way
 
 ## 🧠 What I’ve Been Working On
 
-**🎮 **MoltenEngine**:** A GameEngine to deepen my learning in C++ , Cmake, linux , graphics programming as well as OpenGl.
-**🚦 TG_3SIXO (Journey Radar):** a C++ project built for HackYeah — predicts public transport delays and shows them 
+**🎮 MoltenEngine:** A GameEngine to deepen my learning in C++ , Cmake, linux , graphics programming as well as OpenGl.
+
+**🚦 TG_3SIXO (Journey Radar):** a C++ project built for HackYeah predicts public transport delays and shows them 
     on a live map created with a team of 5 talented members with custom backend servers and API to simulate the idea.  
 
 Each of these projects helped me learn more about programming logic, system design, and how to connect frontend and backend parts together.
@@ -19,16 +20,19 @@ Each of these projects helped me learn more about programming logic, system desi
 ## 🛠️ Skills I’m Building
 
 Languages: C++, C# , C 
+
 Tools: Unreal Engine, linux, Git, CMake , Clion , visual studio , Unity , OpenGl , Rider
+
 Concepts: Object-Oriented Programming and object-oriented design, basic networking, and system design
 
-##**🚀 What’s Next**
+## **🚀 What’s Next**
+
 I want to:
 Get better at writing clean, readable C++ code
 Learn more about networking and systems programming on Linux
 Keep building projects that show real improvement over time
 
-## 💬 Let’s Connect
+## **💬 Let’s Connect**
 
 I’m always open to feedback or learning from others.
 If you want to connect or talk about C++, games, or tech in general feel free to reach out!

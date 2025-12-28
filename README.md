@@ -1,59 +1,51 @@
-YOLO !  
-Welcome to my GitHub! I’m a Backend/Network developer who enjoys learning how things work  from small C++ projects to full game systems and real-time apps.
-I like solving problems, understanding the “why” behind the code, and building projects that help me grow step by step .
+# YOLO!
 
-## 🌱 About Me
+Backend and Network Engineer specializing in  systems development, game engine architecture, and real-time applications. I build robust solutions across the full stack, from low-level C++ systems to scalable backend infrastructure.
 
-I’m currently focusing on C++, Unreal Engine, and backend systems praticularly in game engine and network technologies.
-I enjoy learning through projects each one teaches me something new about design, debugging, or structure.
-I’m also getting better at using Git, CMake, and organizing code the right way.
+I focus on understanding system internals, optimizing performance, and architecting solutions that solve real problems. My philosophy: "Learning is the process of life, so better start enjoying it because you never stop learning."
 
-## 🧠 What I’ve Been Working On
+## 🔧 Technical Focus
 
-**🎮 MoltenEngine:** A GameEngine to deepen my learning in C++ , Cmake, linux , graphics programming as well as OpenGl.
+I specialize in C/C++ development, Unreal Engine, and backend systems, with particular expertise in game engine architecture and network technologies for telecommunications and embedded systems.
 
-**🚦 TG_3SIXO (Journey Radar):** a C++ project built for HackYeah predicts public transport delays and shows them 
-    on a live map created with a team of 5 talented members with custom backend servers and API to simulate the idea.  
+My work emphasizes clean architecture, performance optimization, and building maintainable systems that scale.
 
-Each of these projects helped me learn more about programming logic, system design, and how to connect frontend and backend parts together.
+## 🚀 Featured Projects
 
-## 🛠️ Skills I’m Building
+**🎮 MoltenEngine:** A custom game engine built from scratch in C++ demonstrating proficiency in CMake, Linux development, graphics programming, and OpenGL rendering pipelines.
 
-Languages: C++, C# , C 
+**🚦 TG_3SIXO (Journey Radar):** Real-time public transport delay prediction system built for HackYeah. Architected and developed the C++ backend infrastructure, custom APIs, and live map visualization with a cross-functional team of 5 engineers.
 
-Tools: Unreal Engine, linux, Git, CMake , Clion , visual studio , Unity , OpenGl , Rider
+**Gnome Splash:** Led multiplayer systems development for a 21-person team production. Designed and implemented networked gameplay architecture and core game mechanics.
 
-Concepts: Object-Oriented Programming and object-oriented design, basic networking, and system design
+Additional projects showcasing full-stack development, systems programming, and team collaboration are available on my GitHub and itch.io page. Each project demonstrates practical application of software design patterns, distributed systems, and frontend-backend integration.
 
-## **🚀 What’s Next**
+## 🛠️ Technical Stack
 
-I want to:
-Get better at writing clean, readable C++ code
-Learn more about networking and systems programming on Linux
-Keep building projects that show real improvement over time
+**Languages:** C++, C#, C  
+**Tools & Platforms:** Unreal Engine, Linux, Git, CMake, CLion, Visual Studio, Unity, OpenGL, Rider  
+**Core Competencies:** Object-Oriented Design, Network Programming, Systems Architecture, Performance Optimization
 
-## **💬 Let’s Connect**
+## 🎯 Current Initiatives
 
-I’m always open to feedback or learning from others.
-If you want to connect or talk about C++, games, or tech in general feel free to reach out!
+- Advancing C++ expertise with focus on modern standards and performance optimization
+- Deep-diving into Linux systems programming, network protocols, and asynchronous I/O
+- Exploring virtualization technologies and DevOps infrastructure
+- Building production-grade systems that demonstrate architectural maturity
 
-## 🌱 Currently Exploring
+## 🌱 Active Research Areas
 
-Networking & Linux systems programming (TCP servers, async I/O).
+Advanced networking patterns and Linux systems programming (TCP/UDP servers, async I/O, socket programming)
 
-**💬 Let’s Connect**
+## 💬 Let's Connect
 
-I love collaborating on open-source, backend, and game projects.
+I'm open to collaborating on challenging backend, systems, and game development projects.
+
 📩 [LinkedIn](https://www.linkedin.com/in/swastik-t-8aa131168/)
 
 
-[![Candy's User Stats](https://github-readme-stats.vercel.app/api?username=SoftDev-Candy&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=SoftDev-Candy&theme=radical&hide_border=true)](https://github.com/SoftDev-Candy)
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Swastik122?theme=chartreuse&font=PT%20Serif&ext=heatmap)
-
-

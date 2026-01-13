@@ -52,6 +52,4 @@ I'm open to collaborating on challenging backend, systems, and game development 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SoftDev-Candy&theme=radical&hide_border=true)](https://github.com/SoftDev-Candy)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Swastik122?theme=chartreuse&font=PT%20Serif&ext=heatmap)
-
 </div>

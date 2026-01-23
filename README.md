@@ -1,12 +1,13 @@
-# YOLO!
+# Hello !
 
-Backend and Network Engineer specializing in  systems development, game engine architecture, and real-time applications. I build robust solutions across the full stack, from low-level C++ systems to scalable backend infrastructure.
+I am a Backend and Network Engineer specializing in  systems development, game engine architecture, and real-time applications. I build robust solutions across the full stack, from low-level C++ systems to scalable backend infrastructure.
 
 I focus on understanding system internals, optimizing performance, and architecting solutions that solve real problems. My philosophy: "Learning is the process of life, so better start enjoying it because you never stop learning."
 
 ## 🔧 Technical Focus
 
 I specialize in C/C++ development, Unreal Engine, and backend systems, with particular expertise in game engine architecture and network technologies for telecommunications and embedded systems.
+I also have in-depth knowledge of linux and I am currently getting a certification in Cloud and DevOps from Epam Learning.
 
 My work emphasizes clean architecture, performance optimization, and building maintainable systems that scale.
 
@@ -22,7 +23,7 @@ Additional projects showcasing full-stack development, systems programming, and 
 
 ## 🛠️ Technical Stack
 
-**Languages:** C++, C#, C  
+**Languages:** C++, C#, C  , Python
 **Tools & Platforms:** Unreal Engine, Linux, Git, CMake, CLion, Visual Studio, Unity, OpenGL, Rider  
 **Core Competencies:** Object-Oriented Design, Network Programming, Systems Architecture, Performance Optimization
 

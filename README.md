@@ -55,7 +55,7 @@ You’ll find more projects here on GitHub and on itch.io — each one pushing m
 ## 🛠️ Technical Stack
 
 **Languages**  
-C++ • C • C# • Python  
+C++ • C • C# • Rust • GO
 
 **Tools & Platforms**  
 Unreal Engine • Unity • Linux • Git • CMake • CLion • Visual Studio • Rider • OpenGL  

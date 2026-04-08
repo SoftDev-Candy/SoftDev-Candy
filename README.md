@@ -16,7 +16,7 @@ I spend most of my time around:
 - 🌐 **Networking** – building real-time, low-latency communication systems  
 - 🎮 **Game Engine Architecture** – rendering, memory, tooling, and engine structure  
 - 🐧 **Linux Development** – comfortable working close to the OS  
-- ☁️ **Cloud & DevOps (In Progress)** – currently expanding into infrastructure and deployment practices  
+- ☁️ **QT** – expanding into UI development using QT  
 
 I care deeply about **clean architecture**, **maintainability**, and writing code that future-me (and teammates) won’t hate.
 

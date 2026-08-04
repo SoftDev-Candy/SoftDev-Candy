@@ -1,4 +1,4 @@
-# Hi, I'm Swastik Toprani
+# Hi, I'm Swastik 
 
 Computer Enginner and Game Developer building practical experience in **data analysis, machine learning, and reliable software systems**.
 

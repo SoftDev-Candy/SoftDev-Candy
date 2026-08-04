@@ -2,9 +2,7 @@
 
 Computer Science graduate building practical experience in **data analysis, machine learning, and reliable software systems**.
 
-I work with Python, SQL, pandas, and PyTorch to explore data, build reproducible pipelines, and develop computer-vision projects. My background in C++, backend development, networking, and real-time applications gives me a systems-oriented approach to data work.
-
-I'm currently interested in opportunities across **Data Analysis, Data Science, Machine Learning, and Data Engineering**.
+I work with Python, SQL, pandas, and PyTorch to explore data, build reproducible pipelines, and develop computer-vision projects. My background in C++, backend development, networking, and real-time applications gives me a systems-oriented approach to data work.I am currently working in the Game Dev industry on variety of projects but I am looking for opportunities across **Data Analysis, Data Science, Machine Learning, and Data Engineering**.
 
 ## Featured projects
 

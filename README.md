@@ -47,7 +47,7 @@ A modular C++ engine project focused on rendering foundations, editor tooling, c
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/swastik-t-8aa131168/)
-- [Portfolio repository](https://github.com/SoftDev-Candy/Portfolio_Website)
+- [Portfolio repository](https://swastiktoprani.com)
 
 <div align="center">
 

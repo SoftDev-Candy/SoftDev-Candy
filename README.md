@@ -31,10 +31,10 @@ I have worked professionally with Unreal Engine and Unity and have shipped 5+ ga
 🌿 Featured Projects
 <br>
 
-🛰️ GuardianSAR
+🛰️ GeoDefense_AI
 Machine Learning • Computer Vision • Defence / SAR Analysis
 
-GuardianSAR is a computer-vision project I am building using 5,744 public MSTAR SAR images across 11 target classes. I started by exploring and validating the dataset, checking class balance, image properties, and possible shortcut-learning risks before moving into model training. 
+GeoDefense_AI is a computer-vision project I am building using 5,744 public MSTAR SAR images across 11 target classes. I started by exploring and validating the dataset, checking class balance, image properties, and possible shortcut-learning risks before moving into model training. 
 
 The goal is to eventually combine PyTorch-based target classification with an Unreal Engine simulation environment for defence-style testing and experimentation. So basically the model would identify targets and based on the Geo-spatial images provided to it helping troops and data intelligence team gain better information about in the battlefield.
 

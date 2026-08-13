@@ -64,7 +64,8 @@ Molten Engine is a C++20/OpenGL game engine project I built to learn how the dif
 <p> <img src="https://img.shields.io/badge/C%2B%2B-161B22?style=flat-square&logo=cplusplus&logoColor=C7B7E8"/> <img src="https://img.shields.io/badge/OpenGL-161B22?style=flat-square&logo=opengl&logoColor=7DD3C7"/> <img src="https://img.shields.io/badge/ImGui-161B22?style=flat-square&logoColor=EE8C7C"/> <img src="https://img.shields.io/badge/CMake-161B22?style=flat-square&logo=cmake&logoColor=F7C7A3"/> </p>
 
 <br>
-# 🛠️ Technical Toolkit
+
+#  🛠️ Technical Toolkit
 
 ### 📊 Data & Analytics
 
@@ -155,22 +156,30 @@ Molten Engine is a C++20/OpenGL game engine project I built to learn how the dif
 
 ---
 
-# 📈 GitHub Activity
+# 🐍 Contribution Trail
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SoftDev-Candy&show_icons=true&hide_border=true&bg_color=161B22&title_color=7DD3C7&text_color=F7C7A3&icon_color=EE8C7C" />
+<picture>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftDev-Candy&layout=compact&hide_border=true&bg_color=161B22&title_color=EE8C7C&text_color=F7C7A3" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/SoftDev-Candy/SoftDev-Candy/output/github-snake-dark.svg"
+  >
 
-<br><br>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/SoftDev-Candy/SoftDev-Candy/output/github-snake.svg"
+  >
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SoftDev-Candy&bg_color=161B22&color=F7C7A3&line=7DD3C7&point=EE8C7C&area=true&hide_border=true" />
+  <img
+    alt="Swastik's GitHub contribution snake"
+    src="https://raw.githubusercontent.com/SoftDev-Candy/SoftDev-Candy/output/github-snake.svg"
+  />
+
+</picture>
 
 </div>
-
-<br>
-
 ---
 
 # 🤝 Connect
@@ -193,12 +202,7 @@ Molten Engine is a C++20/OpenGL game engine project I built to learn how the dif
 
 </div>
 
-
-
-
 <br><br>
-
-
 
 </div>
 

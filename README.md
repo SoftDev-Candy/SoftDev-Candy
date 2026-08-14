@@ -186,7 +186,7 @@ Molten Engine is a C++20/OpenGL game engine project I built to learn how the dif
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Swastik-2E5D50?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swastik-t-8aa131168/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Swastik-2E5D50?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swastik-t-8aa131168/)  7k+ followers
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-swastiktoprani.com-C96F67?style=for-the-badge&logo=googlechrome&logoColor=white)](https://swastiktoprani.com)
 
